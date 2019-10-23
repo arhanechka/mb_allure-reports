@@ -1,12 +1,12 @@
 {
-  "uid" : "36e902f4bf16151a",
+  "uid" : "b0c6b7ff570e36b8",
   "name" : "Onboarding snapshot test with locale en_NZ",
   "fullName" : "SnapshotTests.test01OnBoardingTest",
   "historyId" : "8d72eed919a67b95eade606212d56ea2",
   "time" : {
-    "start" : 1571738307033,
-    "stop" : 1571738420163,
-    "duration" : 113130
+    "start" : 1571737665605,
+    "stop" : 1571737773207,
+    "duration" : 107602
   },
   "description" : "",
   "status" : "passed",
@@ -19,9 +19,9 @@
     "steps" : [ {
       "name" : "Setting iOS driver",
       "time" : {
-        "start" : 1571738307042,
-        "stop" : 1571738359517,
-        "duration" : 52475
+        "start" : 1571737665612,
+        "stop" : 1571737716041,
+        "duration" : 50429
       },
       "status" : "passed",
       "steps" : [ ],
@@ -37,9 +37,9 @@
     }, {
       "name" : "Getting api data",
       "time" : {
-        "start" : 1571738359517,
-        "stop" : 1571738365183,
-        "duration" : 5666
+        "start" : 1571737716042,
+        "stop" : 1571737718473,
+        "duration" : 2431
       },
       "status" : "passed",
       "steps" : [ ],
@@ -55,8 +55,8 @@
     }, {
       "name" : "Setting data Object",
       "time" : {
-        "start" : 1571738365183,
-        "stop" : 1571738365183,
+        "start" : 1571737718473,
+        "stop" : 1571737718473,
         "duration" : 0
       },
       "status" : "passed",
@@ -70,9 +70,9 @@
     }, {
       "name" : "resetting application",
       "time" : {
-        "start" : 1571738365183,
-        "stop" : 1571738414265,
-        "duration" : 49082
+        "start" : 1571737718473,
+        "stop" : 1571737767313,
+        "duration" : 48840
       },
       "status" : "passed",
       "steps" : [ ],
@@ -85,9 +85,9 @@
     }, {
       "name" : "Checking screen get_started",
       "time" : {
-        "start" : 1571738414282,
-        "stop" : 1571738415841,
-        "duration" : 1559
+        "start" : 1571737767329,
+        "stop" : 1571737768890,
+        "duration" : 1561
       },
       "status" : "passed",
       "steps" : [ ],
@@ -106,9 +106,9 @@
     }, {
       "name" : "clean logs",
       "time" : {
-        "start" : 1571738420158,
-        "stop" : 1571738420159,
-        "duration" : 1
+        "start" : 1571737773201,
+        "stop" : 1571737773201,
+        "duration" : 0
       },
       "status" : "passed",
       "steps" : [ ],
@@ -120,9 +120,9 @@
       "hasContent" : false
     } ],
     "attachments" : [ {
-      "uid" : "9e19c137b4847ae",
+      "uid" : "d18d02bc89efb1e0",
       "name" : "attachLogs",
-      "source" : "9e19c137b4847ae.txt",
+      "source" : "d18d02bc89efb1e0.txt",
       "type" : "text/plain",
       "size" : 1046
     } ],
@@ -138,7 +138,7 @@
     "value" : "MacBook-Pro.local"
   }, {
     "name" : "thread",
-    "value" : "11550@MacBook-Pro.local.main(1)"
+    "value" : "8890@MacBook-Pro.local.main(1)"
   }, {
     "name" : "framework",
     "value" : "junit-platform"
@@ -169,6 +169,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "36e902f4bf16151a.json",
+  "source" : "b0c6b7ff570e36b8.json",
   "parameterValues" : [ ]
 }

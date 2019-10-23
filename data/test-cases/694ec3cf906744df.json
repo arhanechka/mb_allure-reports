@@ -1,5 +1,5 @@
 {
-  "uid" : "f9ac38a0ca0b009b",
+  "uid" : "694ec3cf906744df",
   "name" : "Onboarding snapshot test with locale en_NZ",
   "fullName" : "SnapshotTests.test01OnBoardingTest",
   "historyId" : "8d72eed919a67b95eade606212d56ea2",
@@ -120,9 +120,9 @@
       "hasContent" : false
     } ],
     "attachments" : [ {
-      "uid" : "122ffb9b69353760",
+      "uid" : "25d92296f98fbb2d",
       "name" : "attachLogs",
-      "source" : "122ffb9b69353760.txt",
+      "source" : "25d92296f98fbb2d.txt",
       "type" : "text/plain",
       "size" : 1046
     } ],
@@ -168,7 +168,7 @@
   "extra" : {
     "severity" : "normal",
     "retries" : [ {
-      "uid" : "36e902f4bf16151a",
+      "uid" : "ef2c648d4bd18a87",
       "status" : "passed",
       "time" : {
         "start" : 1571738307033,
@@ -176,7 +176,7 @@
         "duration" : 113130
       }
     }, {
-      "uid" : "9b27a49dba8dbc32",
+      "uid" : "38c0df1fde34d5fd",
       "status" : "passed",
       "time" : {
         "start" : 1571738034169,
@@ -184,7 +184,7 @@
         "duration" : 105039
       }
     }, {
-      "uid" : "87dc432359229a15",
+      "uid" : "b6970471d382865a",
       "status" : "passed",
       "time" : {
         "start" : 1571737887748,
@@ -192,7 +192,7 @@
         "duration" : 103463
       }
     }, {
-      "uid" : "7004166f6fd8a38f",
+      "uid" : "b0c6b7ff570e36b8",
       "status" : "passed",
       "time" : {
         "start" : 1571737665605,
@@ -200,7 +200,7 @@
         "duration" : 107602
       }
     }, {
-      "uid" : "28e17836e01a7a44",
+      "uid" : "5e46b831196bad7c",
       "status" : "passed",
       "time" : {
         "start" : 1571737312834,
@@ -211,6 +211,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "f9ac38a0ca0b009b.json",
+  "source" : "694ec3cf906744df.json",
   "parameterValues" : [ ]
 }

@@ -3,7 +3,7 @@
   "name" : "behaviors",
   "children" : [ {
     "name" : "Onboarding snapshot test with locale en_NZ",
-    "uid" : "f9ac38a0ca0b009b",
+    "uid" : "694ec3cf906744df",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {

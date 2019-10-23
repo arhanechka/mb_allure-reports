@@ -1,5 +1,5 @@
 {
-  "uid" : "87dc432359229a15",
+  "uid" : "b6970471d382865a",
   "name" : "Onboarding snapshot test with locale en_NZ",
   "fullName" : "SnapshotTests.test01OnBoardingTest",
   "historyId" : "8d72eed919a67b95eade606212d56ea2",
@@ -120,9 +120,9 @@
       "hasContent" : false
     } ],
     "attachments" : [ {
-      "uid" : "e1b21072b6e35492",
+      "uid" : "407dfed550f2ada8",
       "name" : "attachLogs",
-      "source" : "e1b21072b6e35492.txt",
+      "source" : "407dfed550f2ada8.txt",
       "type" : "text/plain",
       "size" : 1046
     } ],
@@ -169,6 +169,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "87dc432359229a15.json",
+  "source" : "b6970471d382865a.json",
   "parameterValues" : [ ]
 }

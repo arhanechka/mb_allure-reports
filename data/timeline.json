@@ -4,44 +4,27 @@
   "children" : [ {
     "name" : "MacBook-Pro.local",
     "children" : [ {
-      "name" : "12470@MacBook-Pro.local.main(1)",
+      "name" : "7985@MacBook-Pro.local.main(1)",
       "children" : [ {
         "name" : "Onboarding snapshot test with locale en_NZ",
-        "uid" : "f9ac38a0ca0b009b",
-        "parentUid" : "247bcbfb1ceb737f752d2fd0232aa0df",
+        "uid" : "5e46b831196bad7c",
+        "parentUid" : "d194cd2c6b198132af74f07da3d585f9",
         "status" : "passed",
         "time" : {
-          "start" : 1571738492355,
-          "stop" : 1571738604203,
-          "duration" : 111848
+          "start" : 1571737312834,
+          "stop" : 1571737420076,
+          "duration" : 107242
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "247bcbfb1ceb737f752d2fd0232aa0df"
-    }, {
-      "name" : "9787@MacBook-Pro.local.main(1)",
-      "children" : [ {
-        "name" : "Onboarding snapshot test with locale en_NZ",
-        "uid" : "87dc432359229a15",
-        "parentUid" : "a1907f500d0dab2a7891abfd695ffac9",
-        "status" : "passed",
-        "time" : {
-          "start" : 1571737887748,
-          "stop" : 1571737991211,
-          "duration" : 103463
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "a1907f500d0dab2a7891abfd695ffac9"
+      "uid" : "d194cd2c6b198132af74f07da3d585f9"
     }, {
       "name" : "8890@MacBook-Pro.local.main(1)",
       "children" : [ {
         "name" : "Onboarding snapshot test with locale en_NZ",
-        "uid" : "7004166f6fd8a38f",
+        "uid" : "b0c6b7ff570e36b8",
         "parentUid" : "0826633f14642eb89047113d7e615e9b",
         "status" : "passed",
         "time" : {
@@ -58,7 +41,7 @@
       "name" : "10666@MacBook-Pro.local.main(1)",
       "children" : [ {
         "name" : "Onboarding snapshot test with locale en_NZ",
-        "uid" : "9b27a49dba8dbc32",
+        "uid" : "38c0df1fde34d5fd",
         "parentUid" : "ac5d147240f79a4fe33d5f509db4a5dd",
         "status" : "passed",
         "time" : {
@@ -72,27 +55,10 @@
       } ],
       "uid" : "ac5d147240f79a4fe33d5f509db4a5dd"
     }, {
-      "name" : "7985@MacBook-Pro.local.main(1)",
-      "children" : [ {
-        "name" : "Onboarding snapshot test with locale en_NZ",
-        "uid" : "28e17836e01a7a44",
-        "parentUid" : "d194cd2c6b198132af74f07da3d585f9",
-        "status" : "passed",
-        "time" : {
-          "start" : 1571737312834,
-          "stop" : 1571737420076,
-          "duration" : 107242
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "d194cd2c6b198132af74f07da3d585f9"
-    }, {
       "name" : "11550@MacBook-Pro.local.main(1)",
       "children" : [ {
         "name" : "Onboarding snapshot test with locale en_NZ",
-        "uid" : "36e902f4bf16151a",
+        "uid" : "ef2c648d4bd18a87",
         "parentUid" : "8f9036b6652bc386dbf86028086c122b",
         "status" : "passed",
         "time" : {
@@ -105,6 +71,40 @@
         "parameters" : [ ]
       } ],
       "uid" : "8f9036b6652bc386dbf86028086c122b"
+    }, {
+      "name" : "9787@MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "Onboarding snapshot test with locale en_NZ",
+        "uid" : "b6970471d382865a",
+        "parentUid" : "a1907f500d0dab2a7891abfd695ffac9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1571737887748,
+          "stop" : 1571737991211,
+          "duration" : 103463
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a1907f500d0dab2a7891abfd695ffac9"
+    }, {
+      "name" : "12470@MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "Onboarding snapshot test with locale en_NZ",
+        "uid" : "694ec3cf906744df",
+        "parentUid" : "247bcbfb1ceb737f752d2fd0232aa0df",
+        "status" : "passed",
+        "time" : {
+          "start" : 1571738492355,
+          "stop" : 1571738604203,
+          "duration" : 111848
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "247bcbfb1ceb737f752d2fd0232aa0df"
     } ],
     "uid" : "e792a61be548a1d4ff631ca281f20c17"
   } ]

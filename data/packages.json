@@ -5,7 +5,7 @@
     "name" : "SnapshotTests",
     "children" : [ {
       "name" : "test01OnBoardingTest",
-      "uid" : "f9ac38a0ca0b009b",
+      "uid" : "694ec3cf906744df",
       "parentUid" : "f242df54d9cfdef446f4258b7b2b07ea",
       "status" : "passed",
       "time" : {
