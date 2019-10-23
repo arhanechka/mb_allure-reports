@@ -1,0 +1,5 @@
+2019-10-22 13:01:32 ERROR qameta.allure.AllureLifecycle:497 - Could not update step: no step running
+2019-10-22 13:01:32 ERROR qameta.allure.AllureLifecycle:532 - Could not stop step: no step running
+2019-10-22 13:03:18 INFO  SnapshotTests:66 - setUpDriver io.appium.java_client.ios.IOSDriver, Capabilities: {app=/Users/hanna/Library/Developer/Xcode/DerivedData/My-Coach-gsglmgrzciihxqelnxmxzwnckraw/Build/Products/Development-iphonesimulator/My-Coach Development.app, browserName=, databaseEnabled=false, deviceName=iPhone 8, fullReset=true, javascriptEnabled=true, language=en, locale=en_NZ, locationContextEnabled=false, networkConnectionEnabled=false, noReset=false, platform=MAC, platformName=iOS, platformVersion=13.1, scaleFactor=1.0, simpleIsVisibleCheck=true, takesScreenshot=true, udid=C1B77583-A99A-4623-93DF-4FA18972B2FD, useJSONSource=true, webStorageEnabled=false}
+2019-10-22 13:03:19 INFO  pages.onBoardingPages.GetStartedPage:251 - Tapping element 'Get Started Button'...
+2019-10-22 13:03:19 INFO  SnapshotTests:122 - stopDriver 

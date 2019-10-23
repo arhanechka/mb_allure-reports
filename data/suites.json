@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "SnapshotTests",
+    "children" : [ {
+      "name" : "Onboarding snapshot test with locale en_NZ",
+      "uid" : "f9ac38a0ca0b009b",
+      "parentUid" : "7ebb4276f631e45628dc0b124d73ca96",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571738492355,
+        "stop" : 1571738604203,
+        "duration" : 111848
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7ebb4276f631e45628dc0b124d73ca96"
+  } ]
+}

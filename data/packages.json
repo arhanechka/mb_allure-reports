@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "SnapshotTests",
+    "children" : [ {
+      "name" : "test01OnBoardingTest",
+      "uid" : "f9ac38a0ca0b009b",
+      "parentUid" : "f242df54d9cfdef446f4258b7b2b07ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1571738492355,
+        "stop" : 1571738604203,
+        "duration" : 111848
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "f242df54d9cfdef446f4258b7b2b07ea"
+  } ]
+}

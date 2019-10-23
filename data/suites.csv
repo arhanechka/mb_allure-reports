@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Oct 22 13:01:32 EEST 2019","Tue Oct 22 13:03:24 EEST 2019","111848","","SnapshotTests","","SnapshotTests","test01OnBoardingTest","Onboarding snapshot test with locale en_NZ",""

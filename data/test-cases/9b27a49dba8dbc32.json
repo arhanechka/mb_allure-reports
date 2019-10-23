@@ -1,0 +1,174 @@
+{
+  "uid" : "9b27a49dba8dbc32",
+  "name" : "Onboarding snapshot test with locale en_NZ",
+  "fullName" : "SnapshotTests.test01OnBoardingTest",
+  "historyId" : "8d72eed919a67b95eade606212d56ea2",
+  "time" : {
+    "start" : 1571738034169,
+    "stop" : 1571738139208,
+    "duration" : 105039
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Setting iOS driver",
+      "time" : {
+        "start" : 1571738034177,
+        "stop" : 1571738083859,
+        "duration" : 49682
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "locale",
+        "value" : "en_NZ"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Getting api data",
+      "time" : {
+        "start" : 1571738083859,
+        "stop" : 1571738085603,
+        "duration" : 1744
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "locale",
+        "value" : "en_NZ"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Setting data Object",
+      "time" : {
+        "start" : 1571738085604,
+        "stop" : 1571738085604,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "resetting application",
+      "time" : {
+        "start" : 1571738085604,
+        "stop" : 1571738133314,
+        "duration" : 47710
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Checking screen get_started",
+      "time" : {
+        "start" : 1571738133332,
+        "stop" : 1571738134889,
+        "duration" : 1557
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "screen",
+        "value" : "get_started"
+      }, {
+        "name" : "mode",
+        "value" : "check"
+      } ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "clean logs",
+      "time" : {
+        "start" : 1571738139204,
+        "stop" : 1571738139204,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "10cf6ca5858163aa",
+      "name" : "attachLogs",
+      "source" : "10cf6ca5858163aa.txt",
+      "type" : "text/plain",
+      "size" : 1046
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "10666@MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "SnapshotTests"
+  }, {
+    "name" : "testClass",
+    "value" : "SnapshotTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "test01OnBoardingTest"
+  }, {
+    "name" : "suite",
+    "value" : "SnapshotTests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9b27a49dba8dbc32.json",
+  "parameterValues" : [ ]
+}
